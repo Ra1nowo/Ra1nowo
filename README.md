@@ -10,7 +10,7 @@
 
 </div>
 
-![头像]()
+![头像](https://img.picui.cn/free/2024/09/28/66f800e462147.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/Ra1nowo/count.svg)
 
