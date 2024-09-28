@@ -7,6 +7,8 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-Ra1nowo-yellow)](https://space.bilibili.com/507928822?spm_id_from=333.337.0.0)
 
 ![](https://img.shields.io/badge/11408高手-yellow) 
+
+![](https://img.shields.io/badge/算法练习-yellow) 
 </div>
 
 
