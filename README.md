@@ -6,7 +6,7 @@
 
 
 
-[![modern cpp](https://img.shields.io/badge/Bilbili%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+[![modern cpp](https://img.shields.io/badge/Bilbili-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/11408高手-yellow) 
 </div>
 
